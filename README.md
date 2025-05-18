@@ -38,20 +38,6 @@ pip install -r requirements.txt
 - Code style is checked using flake8
 - GitHub Actions CI/CD pipeline is set up to run tests and style checks on push and pull requests
 
-## Running Tests
-
-```bash
-python -m pytest
-```
-
-## Code Style
-
-The project follows PEP 8 style guidelines. You can check your code style using:
-
-```bash
-pip install flake8
-flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
-```
 
 ## Environment Variables
 
