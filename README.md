@@ -8,13 +8,13 @@ The project aims to analyze and visualize solar energy potential across West Afr
 
 ## Dashboard Screenshots
 
-![Main Dashboard](src\screenshots\photo_2025-05-21_16-39-07.jpg)
+![Main Dashboard](src/screenshots/photo_2025-05-21_16-39-07.jpg)
 *Main dashboard showing solar energy potential across West African countries*
 
-![Country Analysis](src\screenshots\photo_2025-05-21_16-39-12.jpg)
+![Country Analysis](src/screenshots/photo_2025-05-21_16-39-12.jpg)
 *Detailed analysis view for individual countries*
 
-![Comparative Analysis](src\screenshots\photo_2025-05-21_16-39-15.jpg)
+![Comparative Analysis](src/screenshots/photo_2025-05-21_16-39-15.jpg)
 *Comparative view of solar potential across different countries*
 
 
